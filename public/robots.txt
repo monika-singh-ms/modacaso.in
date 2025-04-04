@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Disallow: /cgi-bin/
+
+# Host
+Host: https://www.officearray.com/
+
+# Sitemaps
+Sitemap: https://www.officearray.com/sitemap.xml
